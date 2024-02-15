@@ -89,3 +89,17 @@
         margin-left: 70px;
     }
 }
+.first-img{
+    margin-top: 10px;
+}
+.img-1{
+    width: 100%;
+}
+
+
+ @media screen and (max-width:1000px){
+    .main-cont{
+        display: flex;
+        justify-content: space-evenly;
+    }
+ }
